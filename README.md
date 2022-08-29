@@ -3,3 +3,5 @@
 Important documents for you to start a Red Team management
 
 Created by Joas Antonio
+
+Reference: Red Team Guide
