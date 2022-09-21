@@ -18,6 +18,8 @@
 
 - https://github.com/frizb/Linux-Privilege-Escalation
 
+- https://www.untrustaland.com/blog/lsass-dump-bypass/
+
 ## Lateral Movement
 
 - https://github.com/swisskyrepo/PayloadsAllTheThings/blob/master/Methodology%20and%20Resources/Windows%20-%20Mimikatz.md
