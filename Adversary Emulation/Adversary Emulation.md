@@ -56,3 +56,19 @@ by Mitre Att&ck
 |CobaltBus|Cobalt Strike External C2 Integration With Azure Servicebus, C2 traffic via Azure Servicebus|https://github.com/Flangvik/CobaltBus|
 |SourcePoint|SourcePoint is a C2 profile generator for Cobalt Strike command and control servers designed to ensure evasion.|https://github.com/Tylous/SourcePoint|
 |RedGuard|RedGuard is a C2 front flow control tool,Can avoid Blue Teams,AVs,EDRs check.|https://github.com/wikiZ/RedGuard|
+
+## Command and Control
+
+|Name|Description|URL|
+|-----|-----------|----|
+|Cobalt Strike|Cobalt Strike is software for Adversary Simulations and Red Team Operations.|https://cobaltstrike.com/|
+|Empire|Empire 3 is a post-exploitation framework that includes a pure-PowerShell Windows agent, and compatibility with Python 3.x Linux/OS X agents.|https://github.com/BC-SECURITY/Empire|
+|PoshC2|PoshC2 is a proxy aware C2 framework used to aid penetration testers with red teaming, post-exploitation and lateral movement.|https://github.com/nettitude/PoshC2|
+|Koadic|Koadic C3 COM Command & Control - JScript RAT|https://github.com/zerosum0x0/koadic|
+|merlin|Merlin is a cross-platform post-exploitation Command & Control server and agent written in Go.|https://github.com/Ne0nd0g/merlin|
+|Mythic|A cross-platform, post-exploit, red teaming framework built with python3, docker, docker-compose, and a web browser UI.|https://github.com/its-a-feature/Mythic|
+|Covenant|Covenant is a .NET command and control framework that aims to highlight the attack surface of .NET, make the use of offensive .NET tradecraft easier, and serve as a collaborative command and control platform for red teamers.|https://github.com/cobbr/Covenant|
+|shad0w|A post exploitation framework designed to operate covertly on heavily monitored environments|https://github.com/bats3c/shad0w|
+|Sliver|Sliver is a general purpose cross-platform implant framework that supports C2 over Mutual-TLS, HTTP(S), and DNS.|https://github.com/BishopFox/sliver|
+|SILENTTRINITY|An asynchronous, collaborative post-exploitation agent powered by Python and .NET's DLR|https://github.com/byt3bl33d3r/SILENTTRINITY|
+|Pupy|Pupy is an opensource, cross-platform (Windows, Linux, OSX, Android) remote administration and post-exploitation tool mainly written in python|https://github.com/n1nj4sec/pupy|
