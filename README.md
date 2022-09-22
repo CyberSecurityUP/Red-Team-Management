@@ -9,4 +9,4 @@ Important documents for you to start a Red Team management
 
 Created by Joas Antonio
 
-Reference: Red Team Guide
+Reference: Red Team Guide and Red Team Operations & Development
