@@ -35,3 +35,19 @@ https://elearnsecurity.com/product/ecpptv2-certification/
 https://elearnsecurity.com/product/ecptx-certification/
 
 https://elearnsecurity.com/product/ecthpv2-certification/
+
+-Mile2
+
+https://www.mile2.com/vulnerability-assessor-outline/
+
+https://mile2.com/professional-ethical-hacker/
+
+https://www.mile2.com/penetration-testing-engineer-outline/
+
+https://www.mile2.com/cptc_outline/
+
+- Offensive Security
+
+https://www.offensive-security.com/pwk-oscp/
+
+https://www.offensive-security.com/exp301-osed/
