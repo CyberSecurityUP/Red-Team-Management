@@ -9,6 +9,7 @@ Usernames.
 Password hashes (use fictitious password hashes!).
 Phone numbers.
 Other pertinent details like client or project information.
+
 2. Exposure on Pastebin:
 
 a. Create an anonymous Pastebin account.
@@ -28,6 +29,7 @@ b. Publish a series of tweets in English such as:
 "Just found [Company Name]'s data on Pastebin. #DataLeak #Cybersecurity"
 "Who else saw the leaked data of [Company Name]? #InfoSec #Breach"
 "DataLeaks group on Telegram is sharing leaked info. Anyone know more about this? #ThreatIntel #Leak"
+
 5. Monitoring and Response:
 
 a. The threat intelligence team should regularly monitor Pastebin, Telegram, Twitter, and other platforms for data leaks.
